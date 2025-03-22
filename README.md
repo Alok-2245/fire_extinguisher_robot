@@ -73,7 +73,7 @@ Contributing:
 Contributions to this project are welcome. If you have any improvements, bug fixes, or feature additions, please submit them via pull requests on GitHub.
 
 Acknowledgments:
-https://github.com/guptaakshat2002/fire_extinguisher_robot/blob/main/ACKNOWLEDGEMENT
+https://github.com/Alok-2245/fire_extinguisher_robot/blob/main/ACKNOWLEDGEMENT.pdf
 
 Authors:
 This project is fully supervise and maintain my Alok Singh. 
